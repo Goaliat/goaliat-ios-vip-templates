@@ -22,7 +22,7 @@ Give a name to your scene e.g. `TaskList` and it will generate all related files
 
 ### Demo
 
-<image src="Documentation/CleanSwift/CleanSwift-Architecture-Pattern.png" />
+<image src="Goaliat\ VIP\ Templates/Documentation/CleanSwift/CleanSwift-Architecture-Pattern.png" />
 
 ## Contact
 
