@@ -10,7 +10,7 @@ import Foundation
 
 // MARK: - View protocol
 
-protocol ___VARIABLE_productName:identifier___ViewProtocol {
+protocol ___VARIABLE_productName:identifier___ViewProtocol: class {
 
 }
 
@@ -32,4 +32,10 @@ protocol ___VARIABLE_productName:identifier___UseCase {
 
 protocol ___VARIABLE_productName:identifier___PresenterProtocol {
 
+}
+
+// MARK: - Router protocol
+
+protocol ___VARIABLE_productName:identifier___RouterProtocol {
+    
 }
