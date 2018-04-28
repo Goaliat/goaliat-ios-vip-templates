@@ -1,1 +1,0 @@
-goaliat-ios-vip-templates
